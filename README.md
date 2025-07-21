@@ -34,8 +34,7 @@ A beautifully designed, responsive landing page for a bakery business. The layou
 
 ## 🚀 screenshot
 
-![Image](https://github.com/user-attachments/assets/a71ce021-facb-431d-93cd-764af7bb78c7)
-
+![Image](https://github.com/user-attachments/assets/7663ab7a-5fe3-4853-99d6-63abd7b545bb)
 ---
 
 **Happy Baking! 🧁**
