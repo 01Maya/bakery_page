@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 30 20% 95%; /* bakeryBeige.200 */
+    --foreground: 25 40% 25%; /* bakeryBrown.900 */
+
+    --card: 30 20% 95%; /* bakeryBeige.200 */
+    --card-foreground: 25 40% 25%; /* bakeryBrown.900 */
+
+    --popover: 30 20% 95%; /* bakeryBeige.200 */
+    --popover-foreground: 25 40% 25%; /* bakeryBrown.900 */
+
+    --primary: 25 40% 25%; /* bakeryBrown.900 */
+    --primary-foreground: 30 20% 95%; /* bakeryBeige.200 */
+
+    --secondary: 30 60% 50%; /* bakeryGold.500 */
+    --secondary-foreground: 25 40% 25%; /* bakeryBrown.900 */
+
+    --muted: 30 20% 90%; /* Slightly darker beige for muted sections */
+    --muted-foreground: 25 40% 25%; /* bakeryBrown.900 */
+
+    --accent: 30 60% 50%; /* bakeryGold.500 */
+    --accent-foreground: 25 40% 25%; /* bakeryBrown.900 */
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 20% 98%;
+
+    --border: 30 20% 85%; /* A slightly darker beige border */
+    --input: 30 20% 85%; /* A slightly darker beige input border */
+    --ring: 25 40% 25%; /* bakeryBrown.900 */
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    /* Keeping light theme for this specific request */
+    /* If dark mode was needed, these would be adjusted */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+    scroll-behavior: smooth; /* For smooth scrolling */
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+
+/* Custom utility for Playfair Display font */
+.font-serif {
+  font-family: var(--font-playfair-display);
+}
+
+/* Custom utility for Open Sans font */
+.font-sans {
+  font-family: var(--font-open-sans);
+}
