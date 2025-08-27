@@ -10,6 +10,9 @@ A beautifully designed, responsive landing page for a bakery business. The layou
 - Elegant typography and warm color palette
 - Animations using Framer Motion or CSS transitions
 
+## Preview
+https://bakery-page-peach.vercel.app
+
 ## 🛠 Tech Stack
 
 - HTML5 / JSX  
