@@ -37,7 +37,9 @@ https://bakery-page-peach.vercel.app
 
 ## 🚀 screenshot
 
-![Image](https://github.com/user-attachments/assets/7663ab7a-5fe3-4853-99d6-63abd7b545bb)
+
+![Image](https://github.com/user-attachments/assets/9a7820f0-91ae-4edd-bf4d-943d1fb13c22)
+
 ---
 
 **Happy Baking! 🧁**
