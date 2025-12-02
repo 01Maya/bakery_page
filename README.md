@@ -25,14 +25,6 @@ A beautifully designed, responsive landing page for a bakery business. The layou
 4. **Why Choose Us** - Unique selling points in card format  
 5. **Contact/Visit Us** - Address, map/image, and visit info  
 
-## 🚀 How to Run
-
-1. Clone the repo  
-2. Install dependencies (`npm install` if using React)  
-3. Run development server (`npm run dev` or open `index.html`)  
-4. Customize content/images as needed
-
-
 ## Preview
 https://bakery-page-peach.vercel.app
 
@@ -40,6 +32,14 @@ https://bakery-page-peach.vercel.app
 ## 🚀 screenshot
 
 ![Image](https://github.com/user-attachments/assets/9a7820f0-91ae-4edd-bf4d-943d1fb13c22)
+
+
+## 🚀 How to Run
+
+1. Clone the repo  
+2. Install dependencies (`npm install` if using React)  
+3. Run development server (`npm run dev` or open `index.html`)  
+4. Customize content/images as needed
 
 ---
 
