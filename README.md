@@ -25,6 +25,9 @@ A beautifully designed, responsive landing page for a bakery business. The layou
 4. **Why Choose Us** - Unique selling points in card format  
 5. **Contact/Visit Us** - Address, map/image, and visit info  
 
+
+---
+
 ## Preview
 https://bakery-page-peach.vercel.app
 
