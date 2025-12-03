@@ -28,6 +28,7 @@ A beautifully designed, responsive landing page for a bakery business. The layou
 ## Preview
 https://bakery-page-peach.vercel.app
 
+---
 
 ## Screenshot
 
