@@ -18,7 +18,7 @@ const openSans = Open_Sans({
 
 export const metadata: Metadata = {
   title: "Bakery Brand🎂",
-  description: "Freshly Baked, Just for You!",
+  description: "Freshly Baked, Just for You!🍞",
 }
 
 export default function RootLayout({
