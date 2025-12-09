@@ -17,7 +17,7 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Bakery Brand",
+  title: "Bakery Brand🎂",
   description: "Freshly Baked, Just for You!",
 }
 
